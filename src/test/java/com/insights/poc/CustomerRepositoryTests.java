@@ -1,5 +1,7 @@
 package com.insights.poc;
 
+import com.insights.poc.entity.Customer;
+import com.insights.poc.repository.CustomerRepository;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;
